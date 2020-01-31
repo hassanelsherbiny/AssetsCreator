@@ -14,3 +14,9 @@ you can also add "Create Asset" Option To Images Context Menu To Easily Get All 
 Download Application <br>
 <img src="https://i.ibb.co/Cb4zLbr/240-F-30979558-x-E3-Cmmfu9r-V4-AUms7o-MRg-Exeths-Bs7pf.jpg" width="150" />
 </a>
+
+<br>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=33739JHTLBA5W&source=url" target="_blank">
+Support Us <br>
+  <img src="https://i.ibb.co/ysvXSMM/Paypal.png" />
+  </a>
