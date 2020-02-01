@@ -109,8 +109,7 @@ namespace MobileAssetsImageResizer
                 MessageBox.Show($"Failed To Copy File {defaultDrawableImage}");
             }
             //Show In Explorer
-            System.Diagnostics.Process.Start(OutPutDir);
-            MessageBox.Show("Assests Created Successfully");
+            System.Diagnostics.Process.Start(OutPutDir); 
         }
     }
 }
